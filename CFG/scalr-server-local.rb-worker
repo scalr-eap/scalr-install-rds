@@ -1,0 +1,4 @@
+#Enable worker component, only one can be on at a time#
+service[:enable] = true
+rabbitmq[:enable] = true
+ 
